@@ -1,0 +1,5 @@
+{
+  "name": "AI Content Repurposer",
+  "description": "An AI-powered application that takes a webpage URL and repurposes its content into summaries, social media posts, tweets, or scripts with a single click.",
+  "requestFramePermissions": []
+}
